@@ -4,6 +4,10 @@ A curated list of Model Context Protocol (MCP) servers that provide access to Is
 
 *Last updated: 2025-11-15*
 
+## Related Projects
+
+[![Jewish Interest MCP Projects](https://img.shields.io/badge/Related-Jewish%20Interest%20MCP%20Projects-blue?logo=github)](https://github.com/danielrosehill/Jewish-Interest-MCP-Projects)
+
 ## Table of Contents
 
 <!-- INDEX_START -->
