@@ -8,6 +8,7 @@ A curated list of Model Context Protocol (MCP) servers that provide access to Is
 
 <!-- INDEX_START -->
 
+- [Agent Skills](#agent-skills)
 - [Agent Skills & Frameworks](#agent-skills--frameworks)
 - [Economics & Statistics](#economics--statistics)
 - [Finance & Banking](#finance--banking)
@@ -24,6 +25,102 @@ A curated list of Model Context Protocol (MCP) servers that provide access to Is
 - [Weather & Environment](#weather--environment)
 
 <!-- INDEX_END -->
+
+# Agent Skills
+
+Individual AI agent skills for Israeli services and data
+
+## [Morning Skill](https://github.com/D1DX/morning-skill)
+
+![GitHub stars](https://img.shields.io/github/stars/D1DX/morning-skill?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/D1DX/morning-skill)
+
+Morning (Green Invoice) skill for AI agents — expense management, presigned S3 file upload, classifications, and search
+
+**Author:** [D1DX](https://github.com/D1DX)
+
+---
+
+## [Nadlan Skill](https://github.com/IsraelZablianov/nadlan-skill)
+
+![GitHub stars](https://img.shields.io/github/stars/IsraelZablianov/nadlan-skill?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/IsraelZablianov/nadlan-skill)
+
+AI skill for Israeli real estate market analysis
+
+**Author:** [IsraelZablianov](https://github.com/IsraelZablianov)
+
+---
+
+## [Seret Skill](https://github.com/omernesh/seret-skill)
+
+![GitHub stars](https://img.shields.io/github/stars/omernesh/seret-skill?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/omernesh/seret-skill)
+
+AI agent skill for Israeli movie showtimes, ratings, and cinema info from seret.co.il
+
+**Data Sources:** seret.co.il
+
+**Author:** [omernesh](https://github.com/omernesh)
+
+---
+
+## [Skills IL — Accounting](https://github.com/skills-il/accounting)
+
+![GitHub stars](https://img.shields.io/github/stars/skills-il/accounting?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/accounting)
+
+AI agent skills for Israeli accounting, bookkeeping, and financial management
+
+**Author:** [skills-il](https://github.com/skills-il)
+
+---
+
+## [Skills IL — Communication](https://github.com/skills-il/communication)
+
+![GitHub stars](https://img.shields.io/github/stars/skills-il/communication?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/communication)
+
+AI agent skills for SMS, email, and customer communication in Israel
+
+**Author:** [skills-il](https://github.com/skills-il)
+
+---
+
+## [Skills IL — Developer Tools](https://github.com/skills-il/developer-tools)
+
+![GitHub stars](https://img.shields.io/github/stars/skills-il/developer-tools?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/developer-tools)
+
+AI agent development utilities with Israeli adaptations
+
+**Author:** [skills-il](https://github.com/skills-il)
+
+---
+
+## [Skills IL — Government Services](https://github.com/skills-il/government-services)
+
+![GitHub stars](https://img.shields.io/github/stars/skills-il/government-services?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/government-services)
+
+AI agent skills for Israeli government APIs and digital services
+
+**Author:** [skills-il](https://github.com/skills-il)
+
+---
+
+## [Skills IL — Security & Compliance](https://github.com/skills-il/security-compliance)
+
+![GitHub stars](https://img.shields.io/github/stars/skills-il/security-compliance?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/security-compliance)
+
+AI agent skills for Israeli privacy law, GDPR, and regulatory compliance
+
+**Author:** [skills-il](https://github.com/skills-il)
+
+---
+
+## [Skills IL — Tax & Finance](https://github.com/skills-il/tax-and-finance)
+
+![GitHub stars](https://img.shields.io/github/stars/skills-il/tax-and-finance?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/skills-il/tax-and-finance)
+
+AI agent skills for Israeli tax, invoicing, VAT, and financial systems
+
+**Author:** [skills-il](https://github.com/skills-il)
+
+---
 
 # Agent Skills & Frameworks
 
@@ -595,16 +692,41 @@ Unknown purpose - requires investigation
 
 ---
 
+## [Fingent](https://github.com/amitdan1/Fingent)
+
+![GitHub stars](https://img.shields.io/github/stars/amitdan1/Fingent?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/amitdan1/Fingent)
+
+Fingent — Smart Financial Management System for Israel. AI-powered advisor (Finni), open banking, expense analytics
+
+**Author:** [amitdan1](https://github.com/amitdan1)
+
+---
+
+## [RPA Port Platform](https://github.com/doronrpa-hub/rpa-port-platform)
+
+![GitHub stars](https://img.shields.io/github/stars/doronrpa-hub/rpa-port-platform?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/doronrpa-hub/rpa-port-platform)
+
+Israeli Customs Intelligence Platform — AI-powered document classification, email monitoring, and self-learning knowledge base
+
+**Author:** [doronrpa-hub](https://github.com/doronrpa-hub)
+
+---
+
 # MCP Authors
 
 Alphabetical list of contributors who have created Israel-related MCP servers:
 
+- [amitdan1](https://github.com/amitdan1)
 - [Ansvar-Systems](https://github.com/Ansvar-Systems)
+- [D1DX](https://github.com/D1DX)
 - [DavidOsherdiagnostica](https://github.com/DavidOsherdiagnostica)
+- [doronrpa-hub](https://github.com/doronrpa-hub)
 - [GaryShnol](https://github.com/GaryShnol)
 - [GuyKh](https://github.com/GuyKh)
+- [IsraelZablianov](https://github.com/IsraelZablianov)
 - [LiorVainer](https://github.com/LiorVainer)
 - [MaorEi](https://github.com/MaorEi)
+- [omernesh](https://github.com/omernesh)
 - [Simtob-Eran](https://github.com/Simtob-Eran)
 - [aviveldan](https://github.com/aviveldan)
 - [barvhaim](https://github.com/barvhaim)
