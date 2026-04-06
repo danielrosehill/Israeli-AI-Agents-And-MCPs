@@ -12,6 +12,7 @@ A curated list of AI agents, agent skills, and Model Context Protocol (MCP) serv
 - [Agent Skills](#agent-skills)
 - [Agent Skills & Frameworks](#agent-skills--frameworks)
 - [Curated Lists](#curated-lists)
+- [Communities & Organizations](#communities--organizations)
 - [Hebrew Language Resources](#hebrew-language-resources)
 - [Economics & Statistics](#economics--statistics)
 - [Finance & Banking](#finance--banking)
@@ -202,9 +203,26 @@ A broader catalogue of useful AI agent skills with a dedicated Israel-specific s
 
 ---
 
+# Communities & Organizations
+
+Israeli AI communities, professional associations, and organizations supporting the local AI ecosystem.
+
+- [AI Israel (aiisrael.org.il)](https://aiisrael.org.il/) — Israeli AI community organization.
+- [The Institute AI (theinstituteai.org.il)](https://www.theinstituteai.org.il/en/) — Israeli institute for AI research and policy.
+- [Agent Skills IL (agentskills.co.il)](https://agentskills.co.il/en) — Companion website to the Skills IL open-source project.
+- [Machine Learning Israel (machinelearning.co.il)](https://machinelearning.co.il/) — Israeli machine learning community.
+- [Israeli Association for Artificial Intelligence (iaai.org.il)](https://iaai.org.il/) — Professional association for AI practitioners and researchers in Israel.
+
+---
+
 # Hebrew Language Resources
 
 Indexes and resource lists focused on Hebrew-language AI models, tooling, and evaluations — adjacent to the Israel-specific agent and MCP ecosystem.
+
+## External Resources
+
+- [Dicta (dicta.org.il)](https://dicta.org.il/) — Israeli center for the analysis of Hebrew texts; open-source Hebrew NLP models, datasets, and tools (including DictaLM and OCR for Hebrew).
+- [Open Hebrew LLM Leaderboard (Hugging Face)](https://huggingface.co/blog/leaderboard-hebrew) — Community leaderboard evaluating LLMs on Hebrew language tasks.
 
 ## [Hebrew AI Models](https://github.com/danielrosehill/Hebrew-AI-Models)
 
