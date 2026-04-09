@@ -866,6 +866,16 @@ Community-maintained geodata repository and data pipeline for Israeli public she
 
 ---
 
+## [Israel Preparedness Guidelines AI Assistant](https://github.com/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Israel-Preparedness-Guidelines-AI-Assistant)
+
+AI assistant providing civil defense and emergency preparedness guidance based on Israeli Home Front Command material.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
+
 # Shopping & Retail
 
 Israeli e-commerce and price comparison tools
@@ -1013,6 +1023,16 @@ Voice AI agent project.
 # Other Projects
 
 Projects that need categorization.
+
+## [Geopol Forecaster POC](https://github.com/danielrosehill/Geopol-Forecaster-POC)
+
+![GitHub stars](https://img.shields.io/github/stars/danielrosehill/Geopol-Forecaster-POC?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/danielrosehill/Geopol-Forecaster-POC)
+
+Proof-of-concept AI geopolitical forecaster with a focus on events relevant to Israel and the wider region.
+
+**Author:** [danielrosehill](https://github.com/danielrosehill)
+
+---
 
 ## [Quantum Pinuy Binuy Analyzer](https://github.com/hemichaeli/quantum-pinuy-binuy-analyzer)
 
