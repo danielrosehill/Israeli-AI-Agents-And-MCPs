@@ -4,7 +4,7 @@
 
 A curated map of the Israeli AI ecosystem: AI agents, agent skills, MCP servers, Hebrew language resources, communities, meetups, government bodies, conferences, and domain-specific tools — covering finance, healthcare, government data, real estate, safety, and more.
 
-Projects are presented as compact tables; ecosystem and community sections use grouped lists. See [SCOPE.md](SCOPE.md) for inclusion criteria.
+Projects are presented as compact tables; ecosystem and community sections use grouped lists. See [SCOPE.md](SCOPE.md) for inclusion criteria and [pending.md](pending.md) for planned sections awaiting entries.
 
 > **Note:** This repo is **not** intended to be a collection of every AI company in Israel — that would be an impossible task, and not particularly useful. Rather, it's a thoughtful organisation of links outlining useful directions for those professionally involved in AI in Israel to find community, organisations, and practical tools.
 
@@ -31,10 +31,6 @@ Projects are presented as compact tables; ecosystem and community sections use g
 - [Communities](#communities--organizations)
 - [Government Bodies](#government-bodies)
 - [Centers of Excellence](#centers-of-excellence)
-- [Research Orgs](#research-organizations)
-- [Education](#education)
-- [AI Jobs](#ai-jobs)
-- [VCs & Financing](#ai-focused-vcs--financing)
 - [Conferences](#conferences--events)
 - [Inference Providers](#inference-providers--local-clouds)
 - [Startups](#startup-ecosystem)
@@ -201,50 +197,6 @@ Israeli government agencies and national programs relevant to AI.
 Academic and research centers focused on AI and data science in Israel.
 
 - [Israel Data Science & AI Initiative — Technion (idsai.net.technion.ac.il)](https://idsai.net.technion.ac.il/) — Technion's interdisciplinary data science and AI research center.
-
-*To add: additional university-hosted AI centers (Hebrew U, Tel Aviv U, BGU, Bar-Ilan, Reichman, Weizmann).*
-
----
-
-# Research Organizations
-
-Independent and institutional AI research organizations in Israel.
-
-*To add: non-academic AI research institutes, think tanks, and national labs.*
-
----
-
-# Education
-
-AI-related education pathways in Israel — continuing professional development, postgraduate programs, and standalone courses.
-
-## CPD (Continuing Professional Development)
-
-*To add: professional certifications, bootcamps, and CPD tracks for working professionals.*
-
-## Postgraduate
-
-*To add: MSc, PhD, and executive programs in AI / ML / data science at Israeli universities.*
-
-## Courses
-
-*To add: standalone online and in-person courses (Hebrew and English) on AI/ML topics.*
-
----
-
-# AI Jobs
-
-Job boards, forms, and channels specifically surfacing AI/ML roles in Israel.
-
-*To add: AI-specific job boards, Telegram/WhatsApp job channels, company hiring forms, and community-run job lists.*
-
----
-
-# AI-Focused VCs & Financing
-
-Venture capital funds, accelerators, and financing vehicles with a dedicated AI focus in Israel.
-
-*To add: Israeli VCs, micro-funds, and accelerators with an AI investment thesis.*
 
 ---
 
