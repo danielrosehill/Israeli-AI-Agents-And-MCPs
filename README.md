@@ -126,6 +126,26 @@ Search Israeli restaurants, check availability across date ranges, and get booki
 
 ---
 
+## [JLM Coffee Skill](https://github.com/alexpolonsky/agent-skill-jlm-coffee)
+
+![GitHub stars](https://img.shields.io/github/stars/alexpolonsky/agent-skill-jlm-coffee?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/alexpolonsky/agent-skill-jlm-coffee)
+
+Agent skill for discovering coffee shops in Jerusalem.
+
+**Author:** [alexpolonsky](https://github.com/alexpolonsky)
+
+---
+
+## [Israeli Corporate Law Skill](https://github.com/avivshafir/israeli-corporate-law-skill)
+
+![GitHub stars](https://img.shields.io/github/stars/avivshafir/israeli-corporate-law-skill?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/avivshafir/israeli-corporate-law-skill)
+
+Agent skill for Israeli corporate law.
+
+**Author:** [avivshafir](https://github.com/avivshafir)
+
+---
+
 ## [iCount Skill](https://github.com/Tura2/icount-skill)
 
 ![GitHub stars](https://img.shields.io/github/stars/Tura2/icount-skill?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Tura2/icount-skill)
@@ -450,6 +470,16 @@ MCP server for managing Israeli bank accounts and transactions
 
 ---
 
+## [ClawSavings](https://github.com/yhyatt/ClawSavings)
+
+![GitHub stars](https://img.shields.io/github/stars/yhyatt/ClawSavings?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/yhyatt/ClawSavings)
+
+Savings tracker/tool with Israeli market focus.
+
+**Author:** [yhyatt](https://github.com/yhyatt)
+
+---
+
 # Government & Open Data
 
 Access to Israeli government datasets, budgets, and public information
@@ -632,6 +662,16 @@ Comprehensive access to Israel's pharmaceutical database from the Ministry of He
 **Author:** [DavidOsherdiagnostica](https://github.com/DavidOsherdiagnostica)
 
 **Demo:** [https://github.com/DavidOsherdiagnostica/israel-drugs-mcp-server-demo](https://github.com/DavidOsherdiagnostica/israel-drugs-mcp-server-demo)
+
+---
+
+## [Super-Pharm Stock Checker](https://github.com/BarMalka/super-pharm-stock-checker)
+
+![GitHub stars](https://img.shields.io/github/stars/BarMalka/super-pharm-stock-checker?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/BarMalka/super-pharm-stock-checker)
+
+Stock checker for Super-Pharm, Israel's largest pharmacy chain.
+
+**Author:** [BarMalka](https://github.com/BarMalka)
 
 ---
 
