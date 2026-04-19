@@ -101,6 +101,7 @@ Israeli law and regulatory data
 | Project | Description | Stars |
 |---|---|---|
 | [Israel Law MCP](https://github.com/Ansvar-Systems/israel-law-mcp) | Israel law — Privacy Protection Law, Cyber Directorate regulations, Companies Law with Hebrew/English search | ![](https://img.shields.io/github/stars/Ansvar-Systems/israel-law-mcp?style=social) |
+| [LegalPulse](https://github.com/acaspy/LegalPulse) | AI-powered Israeli law monitoring SaaS delivering Hebrew-first regulatory alerts to businesses | ![](https://img.shields.io/github/stars/acaspy/LegalPulse?style=social) |
 
 
 ## Library & Archives
