@@ -78,8 +78,13 @@ successor is the Claude Israel Shopping Plugin, already listed).
   the "By Domain" column of the README table.
 - Bump both `*Last updated:*` stamps in the README (top of file and above the
   maintainer line) — they drift apart otherwise.
-- Nothing to do for the [website](site.md): it is generated from these same
-  markdown files on push, so a new `##` section becomes a new category page by
-  itself. Do check the entry-count and broken-link snippets in `site.md` after
+- A new `##` section needs nothing done for the [website](site.md): it is
+  generated from these same markdown files on push, so the section becomes a
+  category page by itself. A new **top-level `.md` file** is different — it has
+  to be registered in `scripts/build_site.py` in three places (`PROJECT_PAGES`,
+  `MD_TO_PAGE`, and the `links` list in `nav_html`) plus the README's Contents
+  table and Projects list. Miss one and the build still succeeds; the page just
+  never appears, or appears with no nav entry and cross-links pointing at
+  github.com. Do check the entry-count and broken-link snippets in `site.md` after
   a large sweep — a malformed table row drops its entries from the site
   silently while still looking fine on github.com.

@@ -19,6 +19,7 @@ This resource list catalogues the **Israeli AI ecosystem** — both individual p
 - Hebrew-language AI models, tooling, and evaluations
 - Israeli AI communities, organizations, and associations
 - Websites and hosted services that are AI-first and Israel-focused
+- **AI ideation projects** — where the AI's output is the substantive work product (research, policy, argument) rather than a tool, provided the method is written down and enforced. A folder of AI-generated prose is not in scope; a repository with a stated evidence standard and something enforcing it is
 - Curated lists and indexes of the above
 
 ## Out of scope

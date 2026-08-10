@@ -23,6 +23,7 @@ Projects are presented as compact tables; ecosystem and community sections use g
 - [AI Agents →](agents.md)
 - [Agent Skills →](agent-skills.md)
 - [MCP Servers →](mcps.md)
+- [AI Ideation →](ideation.md)
 - [Curated Lists](#curated-lists)
 - [Datasets ↗](https://github.com/danielrosehill/Israel-Reference-Repos)
 
@@ -84,6 +85,7 @@ This repo's project listings live on dedicated pages:
 - **[AI Agents →](agents.md)** — Autonomous AI agents built for Israeli use cases.
 - **[Agent Skills →](agent-skills.md)** — Israel-focused AI agent skills and skill collections.
 - **[MCP Servers →](mcps.md)** — Model Context Protocol servers for Israeli domains.
+- **[AI Ideation →](ideation.md)** — Projects where the AI's output is the work itself: research, policy and argument rather than a tool.
 
 **Looking for the data itself?** Datasets and reference material — classification codes, lookup tables, catalogue translations, official guidance restructured for retrieval — are indexed separately in **[Israel Reference Repos →](https://github.com/danielrosehill/Israel-Reference-Repos)**. This index covers the software: agents, skills and servers. That one covers the structured context they read. See [SCOPE.md](SCOPE.md) for where the line falls.
 
@@ -230,6 +232,6 @@ The inclusion of a project in this list does not constitute an endorsement. User
 
 ---
 
-*Last updated: 2026-08-03*
+*Last updated: 2026-08-10*
 
 Maintained by [Daniel Rosehill](https://github.com/danielrosehill)

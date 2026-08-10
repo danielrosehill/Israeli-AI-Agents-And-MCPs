@@ -235,7 +235,6 @@ Claude Code and agent plugins for Israeli services.
 | [HA Israel News](https://github.com/Daniellamm/ha-israel-news) | HACS integration fetching Israel-related breaking news via the xAI Grok API | ![](https://img.shields.io/github/stars/Daniellamm/ha-israel-news?style=social) |
 | [Claude Green Invoice Ops Plugin](https://github.com/danielrosehill/Claude-Green-Invoice-Ops-Plugin) | Claude Code plugin providing Green Invoice / Morning MCP and skill definitions for Israeli invoicing operations | ![](https://img.shields.io/github/stars/danielrosehill/Claude-Green-Invoice-Ops-Plugin?style=social) |
 | [Claude Local Web Capture Plugin](https://github.com/danielrosehill/Claude-Local-Web-Capture-Plugin) | Claude Code plugin for capturing geo-restricted web content (Israeli news, prices) via the user's own IP, with a headless-first escalation ladder | ![](https://img.shields.io/github/stars/danielrosehill/Claude-Local-Web-Capture-Plugin?style=social) |
-| [Claude For Mayor](https://github.com/danielrosehill/Claude-For-Mayor) | Claude Code plugin and public workspace for building an evidence-based Jerusalem municipal policy platform — testimony capture, jurisdiction mapping against the Municipalities Ordinance, comparator cities, and Typst policy papers | ![](https://img.shields.io/github/stars/danielrosehill/Claude-For-Mayor?style=social) |
 
 
 ## Voice Agents

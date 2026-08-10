@@ -28,6 +28,7 @@ control over the per-category page split.
 | `agents.md` | `/agents/` |
 | `agent-skills.md` | `/agent-skills/` |
 | `mcps.md` | `/mcps/` hub + one page per `##` section, e.g. `/mcps/finance-banking/` |
+| `ideation.md` | `/ideation/` |
 | `hebrew.md` | `/hebrew/` hub + one page per `##` section |
 | `README.md` level-1 ecosystem sections | `/ecosystem/` hub + `/ecosystem/communities/` etc. |
 | `SCOPE.md` + README Contributing/Disclaimer | `/scope/` |

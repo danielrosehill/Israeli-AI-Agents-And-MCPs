@@ -37,6 +37,7 @@ PROJECT_PAGES = [
     {"src": "agents.md", "slug": "agents", "title": "AI Agents", "icon": "🤖", "split": False},
     {"src": "agent-skills.md", "slug": "agent-skills", "title": "Agent Skills", "icon": "🧩", "split": False},
     {"src": "mcps.md", "slug": "mcps", "title": "MCP Servers", "icon": "🔌", "split": True},
+    {"src": "ideation.md", "slug": "ideation", "title": "AI Ideation", "icon": "💡", "split": False},
     {"src": "hebrew.md", "slug": "hebrew", "title": "Hebrew & Language", "icon": "🇮🇱", "split": True},
 ]
 
@@ -209,6 +210,7 @@ MD_TO_PAGE = {
     "agents.md": ("agents/", False),
     "agent-skills.md": ("agent-skills/", False),
     "mcps.md": ("mcps/", True),
+    "ideation.md": ("ideation/", False),
     "hebrew.md": ("hebrew/", True),
     "SCOPE.md": ("scope/", False),
 }
@@ -367,6 +369,7 @@ def nav_html(depth: int, active: str) -> str:
         ("agents/", "Agents", "agents"),
         ("agent-skills/", "Skills", "agent-skills"),
         ("mcps/", "MCP Servers", "mcps"),
+        ("ideation/", "Ideation", "ideation"),
         ("hebrew/", "Hebrew", "hebrew"),
         ("ecosystem/", "Ecosystem", "ecosystem"),
         ("scope/", "Scope", "scope"),
